@@ -2,7 +2,7 @@
 A mixed reality application that projects a portal in  the real world
 
 ## Overview
-Portal is an application developed to experience Mixed Reatily technology. In this application, two worlds are mixed together to give an immersive experience of VR in the real world. The word "portal" itself suggests the fictional space time passway to different dimension like in any Sci-fi movie. Here in this application user would be able to send and interact with objects through the portal. 
+Portal is an application developed to experience Mixed Reality technology. In this application, two worlds are mixed together to give an immersive experience of VR in the real world. The word "portal" itself suggests the fictional space time passway to different dimension like in any Sci-fi movie. Here in this application user would be able to send and interact with objects through the portal. 
 
 
 ## Mixed Reality
